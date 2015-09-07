@@ -149,7 +149,7 @@ app.service('studentService', ['$q', function($q) {
       photo: 'images/students/taras_lahotskyy.jpg'
   }, {
       subgroup: 2,
-      name: 'Roman	Buryy',
+      name: 'Roman Buryy',
       websiteUrl: 'http://romanburyy.github.io/Weather_v2/',
       codeSourceUrl: 'https://github.com/RomanBuryy/Weather_v2',
       cvUrl: 'https://drive.google.com/file/d/0B7zRTa5W4jtOd1BIdFVsQk5fNWc/view?usp=sharing',
