@@ -75,7 +75,7 @@ app.service('studentService', ['$q', function($q) {
       name: 'Olga Nagorna',
       websiteUrl: 'http://olganagorna.github.io/sunnyvacation/',
       codeSourceUrl: 'https://github.com/olganagorna/sunnyvacation/tree/gh-pages',
-      cvUrl: null,
+      cvUrl: 'https://yadi.sk/d/G1wtMCjWitBM7',
       photo: 'images/students/olga_nagorna.jpg'
   }, {
       subgroup: 1,
