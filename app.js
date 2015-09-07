@@ -196,6 +196,13 @@ app.service('studentService', ['$q', function($q) {
       codeSourceUrl: 'https://github.com/DemiMark/weathertogo3',
       cvUrl: 'https://onedrive.live.com/redir?resid=C114CA6D9723B8F5!514&authkey=!AENv5Lgnjoci9y4&ithint=file%2cpdf',
       photo: 'images/students/marko_sozansky.jpg'
+  }, {
+      subgroup: 2,
+      name: 'Taras Terekh',
+      websiteUrl: 'http://hearbi.github.io/weathersite/',
+      codeSourceUrl: 'https://github.com/hearbi/weathersite',
+      cvUrl: '',
+      photo: 'images/students/taras_terekh.jpg'
   }];
 
   // Promise-based API
